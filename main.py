@@ -166,7 +166,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown("<div class='main-title'>⚡ QUANTUM RESOLVER PRO</div>", unsafe_allow_html=True)
+st.markdown("<div class='main-title'>⚡ RESOLUTOR MATEMATICO</div>", unsafe_allow_html=True)
 st.markdown("<div class='sub-title'>Motor Analítico de Alta Fidelidad • Interfaz Multivariable Holográfica</div>", unsafe_allow_html=True)
 
 modulo = st.tabs(["⚡ Polinomios y Logaritmos", "🌐 Sistemas Lineales 2x2"])
