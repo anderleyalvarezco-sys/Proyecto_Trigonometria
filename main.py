@@ -158,7 +158,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown("<div class='main-title'>SISTEMA DE RESOLUCIÓN ANALÍTICA</div>", unsafe_allow_html=True)
+st.markdown("<div class='main-title'>CALCULADORA DE SISTEMAS</div>", unsafe_allow_html=True)
 st.markdown("<div class='sub-title'>Motor de Computación Algebraica y Representation Geométrica</div>", unsafe_allow_html=True)
 
 modulo = st.tabs(["Polinomios y Logaritmos", "Sistemas Lineales 2x2"])
